@@ -1,0 +1,148 @@
+body {
+    background: #eee;
+    font-family: 'Poppins', sans-serif;
+}
+
+#side_nav {
+    background: #b0daff;
+    min-width: 250px;
+    max-width: 250px;
+    height: 100vh;
+    color: #0e2954;
+    font-family: 'Poppins', sans-serif;
+    position: fixed;
+}
+
+.content {
+    min-height: 100vh;
+    width: 100%;
+    margin-left: 300px;
+    margin-right: 80px;
+}
+
+.h-color {
+    background: #79681c;
+}
+
+.sidebar li.active {
+    background: #eee;
+    border-radius: 10px;
+}
+
+.sidebar li.active a,
+.sidebar li.active a:hover {
+    color: #0e2954
+}
+
+.list-unstyled {
+    color: #0e2954;
+}
+
+.li {
+    color: #0e2954;
+}
+
+.fs-6 {
+    font-weight: bold;
+}
+
+.text-decoration-none {
+    color: #0e2954;
+}
+
+.py-5 {
+    margin-top: 60px;
+}
+
+.c1 {
+    color: #0E2954;
+}
+
+.c2 {
+    color: #1450A3;
+}
+
+.c3 {
+    color: #279eff;
+}
+
+.bg-c3 {
+    background-color: #279eff;
+}
+
+.c4 {
+    color: #75c2f6;
+}
+
+.bg-c4 {
+    background-color: #75c2f6;
+}
+
+.bc-4 {
+    border-color: #75c2f6;
+}
+
+.c5 {
+    color: #b0daff;
+}
+
+.c6 {
+    color: #fcfeff;
+}
+
+.bg-c6 {
+    background-color: #fcfeff;
+}
+
+a i {
+    color: black;
+}
+
+.bc-3 {
+    border-color: #279eff;
+}
+
+.twt {
+    text-decoration: none;
+    border: 1px solid;
+}
+
+.bn {
+    border-bottom: 1px solid #279eff;
+}
+
+.cr-img {
+    height: 100px;
+    object-fit: cover;
+}
+
+.cr-img-1 {
+    height: 250px;
+    object-fit: cover;
+}
+
+div.card {
+    border-radius: 0;
+    border-color: #75c2f6;
+}
+
+div.card-footer {
+    background-color: #fcfeff;
+    border: none;
+}
+
+.rounded-circle {
+    border: 2px solid #0E2954;
+}
+
+.t1 {
+    font-size: 13px;
+}
+
+.pp1 {
+    margin-left: 40px;
+}
+
+.pp {
+    margin-left: 28px;
+}
